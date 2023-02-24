@@ -25,8 +25,7 @@ export const Pets = [
     race: "American Shorthair",
     type: "cat",
     location: "New York",
-    photo:
-      "https://www.pedigree.com.ph/cdn-cgi/image/width=520,format=auto,q=90/sites/g/files/fnmzdf2646/files/2022-03/large_79cb1c6d-4788-455a-9795-c6f230a434d1.jpg",
+    photo:"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQT9CtJt_U0oQZ8jwPyJQ-0aY9fyK3mNiZwWV2cfvcguauin4FNKvbfwMyWxkaXtUI8IIRHzWrd8FxHN3o"
   },
   {
     name: "Fluffy",
@@ -35,8 +34,7 @@ export const Pets = [
     race: "Persian",
     type: "cat",
     location: "Los Angeles",
-    photo:
-      "https://www.pedigree.com.ph/cdn-cgi/image/width=520,format=auto,q=90/sites/g/files/fnmzdf2646/files/2022-03/large_ba2250fb-17d3-41d9-bfa9-d47b8822491b.jpg",
+    photo:"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcS_Eb_cKokdVJe5lwK20IgY09F36nxDgSu7AeV8e5czUbDPKHu6elu9t-X1dfshekF1MczTbYaP0gHHu3Q"
   },
   {
     name: "Peanut",
@@ -46,8 +44,7 @@ export const Pets = [
     type: "bird",
     location: "Melbourne",
     photo:
-      "https://www.pedigree.com.ph/cdn-cgi/image/width=520,format=auto,q=90/sites/g/files/fnmzdf2646/files/2022-03/large_a6af9e63-ff44-45e7-bd75-56c6d352e12a.jpg",
-  },
+"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQnKKqmXX3FeDwHsW52nLXGYT2yTDqPKkURiNcvBx6T7jyrSWk2AjJnf_QfDZTZk74EmrW3Tqy5pg2u9b4"  },
   {
     name: "Kiwi",
     status: false,
@@ -56,8 +53,7 @@ export const Pets = [
     type: "bird",
     location: "Sydney",
     photo:
-      "https://www.pedigree.com.ph/cdn-cgi/image/width=520,format=auto,q=90/sites/g/files/fnmzdf2646/files/2022-03/large_e5e5b96e-2357-4fc4-b4b7-bba96baaef4e.jpg",
-  },
+"https://www.petme.lk/wp-content/uploads/2021/08/cute-girl-with-a-budgie-165581065-57ffdcf03df78cbc2893db7d.jpg"  },
   {
     name: "Kiwi",
     status: true,
@@ -66,8 +62,7 @@ export const Pets = [
     type: "bird",
     location: "Paris",
     photo:
-      "https://www.petmd.com/sites/default/files/Acute-Parrot-Diarrhea.jpg",
-  },
+"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Amazon.parrot.arp.jpg/800px-Amazon.parrot.arp.jpg"  },
   {
     name: "Lola",
     status: true,
@@ -76,8 +71,7 @@ export const Pets = [
     type: "bird",
     location: "New York",
     photo:
-      "https://www.thesprucepets.com/thmb/rqP3a9XVjJmAmFQ4AFwM-lbR8uM=/1080x1080/smart/filters:no_upscale()/african-grey-parrot-4120913-02-3b43d8d4472040f09d5f8711a9ccab92.jpg",
-  },
+"https://d2zp5xs5cp8zlg.cloudfront.net/image-51185-800.jpg"  },
   {
     name: "Mr. Big",
     status: false,
@@ -86,8 +80,7 @@ export const Pets = [
     type: "fish",
     location: "Sydney",
     photo:
-      "https://cdn.shopify.com/s/files/1/0287/4945/products/Goldfish-in-a-Bag_2048x.jpg?v=1570627313",
-  },
+"https://cdn.britannica.com/12/117212-050-3267CED6/Goldfish-behaviour-water-temperature.jpg"  },
   {
     name: "Bubbles",
     status: false,
@@ -96,8 +89,7 @@ export const Pets = [
     type: "fish",
     location: "Tokyo",
     photo:
-      "https://www.koi-pond-guide.com/wp-content/uploads/2021/04/Koi-fish.jpg",
-  },
+"https://www.balisafarimarinepark.com/wp-content/uploads/2022/11/Ikan-Koi-1.jpg"  },
   {
     name: "Rocky",
     status: true,
@@ -106,8 +98,7 @@ export const Pets = [
     type: "dog",
     location: "California",
     photo:
-      "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/bull-terrier-dog-detail.jpg?bust=1535566562",
-  },
+"https://www.nbcsports.com/sites/nbcsports.com/files/2021/11/24/nbc_dog_terrier_coloredbullterrier_211123.jpg"  },
   {
     name: "Rex",
     status: false,
@@ -116,8 +107,7 @@ export const Pets = [
     type: "dog",
     location: "London",
     photo:
-      "https://dogtime.com/assets/uploads/2011/01/file_23192_poodle-460x290.jpg",
-  },
+"https://breed-assets.wisdompanel.com/dog/poodle-miniature-toy/poodle-miniature-toy3.jpg"  },
   {
     name: "Snowball",
     status: false,
@@ -126,8 +116,7 @@ export const Pets = [
     type: "cat",
     location: "Montreal",
     photo:
-      "https://www.thesprucepets.com/thmb/y1F-3yagLu9Kxpvpu_dOjvNktYw=/1500x1500/filters:fill(auto,1)/siamese-cat-breeds-554559-01-566cc0c7358347f690c1f72f7ab0fa2a.jpg",
-  },
+"https://cdn.shopify.com/s/files/1/0087/3798/0475/articles/00-4_e3638841-a86f-4f71-87a7-6624ede96db9_4056x.jpg?v=1603963628"  },
   {
     name: "Socks",
     status: false,
